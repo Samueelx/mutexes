@@ -7,3 +7,5 @@ Go's standard library provides us with a built-in implementation of a mutex with
 - `Unlock()`
 
 Mutexes are powerful. Like most powerful things, they can also cause many bugs if used carelessly.
+
+**Attempting to wrap my head around Mutexes in Go**
